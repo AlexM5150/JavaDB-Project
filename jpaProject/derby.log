@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 09 11:29:19 PST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017d-a0ab-e24a-00000d92ff70 
+on database directory C:\Users\Alex Melford\Documents\CSULB-2021Fall\CECS-323\DerbyData with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/Alex%20Melford/Documents/CSULB-2021Fall/CECS-323/jpaProject/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17+35-LTS-2724
+user.dir=C:\Users\Alex Melford\Documents\CSULB-2021Fall\CECS-323\jpaProject
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
